@@ -1,0 +1,20 @@
+{
+  "name": "R2D2-syntax",
+  "theme": "syntax",
+  "version": "0.2.0",
+  "description": "R2D2 star wars syntax theme for atom.io",
+  "keywords": [
+    "atom.io",
+    "syntax",
+    "theme",
+    "star wars",
+    "R2D2",
+    "@jwranton",
+    "jwranton.pro"
+  ],
+  "repository": "hhttps://github.com/JWRanton/R2D2-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
