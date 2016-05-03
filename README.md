@@ -1,5 +1,7 @@
-# R2D2-syntax theme
+# C3PO-syntax theme
 
-Colors to make R2 himself proud.  Coming soon, Skywalker, Chewie, C3PO, and Yoda themes.
+He's one half of the droids every Storm Trooper is looking for, he's protocol droid, C3PO.
 
-![R2D2-syntax](http://i.cubeupload.com/8uLf1P.png)
+The 2nd theme in my StarWars Syntax Pack.  Make sure to get R2D2-syntax (https://github.com/JWRanton/R2D2-syntax)
+
+![C3PO-syntax](http://i.cubeupload.com/r44S3e.png)

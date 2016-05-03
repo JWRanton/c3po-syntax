@@ -1,18 +1,18 @@
 {
-  "name": "R2D2-syntax",
+  "name": "C3PO-syntax",
   "theme": "syntax",
-  "version": "0.2.0",
-  "description": "R2D2 star wars syntax theme for atom.io",
+  "version": "0.1.0",
+  "description": "C3PO star wars syntax theme for atom.io",
   "keywords": [
     "atom.io",
     "syntax",
     "theme",
     "star wars",
-    "R2D2",
+    "C3PO",
     "@jwranton",
     "jwranton.pro"
   ],
-  "repository": "hhttps://github.com/JWRanton/R2D2-syntax",
+  "repository": "hhttps://github.com/JWRanton/C3PO-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
